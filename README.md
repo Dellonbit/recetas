@@ -1,7 +1,7 @@
 
 ## recetas
 A swift based recipe app for viewing, downloading and adding new recipes. It includes a timer
-for setting timers for recipes.
+for recipes.
 
 ## usage
 * compile and run on xcode 7 
